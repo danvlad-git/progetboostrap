@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+
+#carouselExampleControls{
+    margin-top: 50px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+
